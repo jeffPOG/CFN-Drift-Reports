@@ -1,9 +1,12 @@
-<mxfile host="app.diagrams.net" modified="2022-12-06T23:39:22.985Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.5249.199 Safari/537.36" etag="hGMm3B9vkKT2THtrBN_j" version="20.6.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-12-06T23:43:51.795Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.5249.199 Safari/537.36" etag="Lk5uqWPteBR05WDqsNvb" version="20.6.0" type="github">
   <diagram id="-_QqPTt6IYSgK6NDnBnB" name="Page-1">
-    <mxGraphModel dx="868" dy="436" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1718" dy="436" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="j_06YCDG4wWiyzo9oaCB-1" value="VVDS-VPN" style="sketch=0;outlineConnect=0;gradientColor=none;html=1;whiteSpace=wrap;fontSize=12;fontStyle=0;shape=mxgraph.aws4.group;grIcon=mxgraph.aws4.group_vpc;strokeColor=#3333FF;fillColor=none;verticalAlign=top;align=left;spacingLeft=30;fontColor=#3333FF;dashed=0;fontFamily=Lucida Console;" vertex="1" parent="1">
+          <mxGeometry x="-390" y="60" width="290" height="330" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
