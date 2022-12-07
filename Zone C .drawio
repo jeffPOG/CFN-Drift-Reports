@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-12-07T00:18:23.014Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.5249.199 Safari/537.36" etag="usAuxHtGrtpCWUA28KtG" version="20.6.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-12-07T00:22:20.609Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.5249.199 Safari/537.36" etag="Vt6GHoWzIB_HtQXvXg2X" version="20.6.0" type="github">
   <diagram id="-_QqPTt6IYSgK6NDnBnB" name="Page-1">
     <mxGraphModel dx="1871" dy="446" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -57,6 +57,12 @@
         </mxCell>
         <mxCell id="j_06YCDG4wWiyzo9oaCB-27" value="Private Links" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/networking/Private_Link.svg;dashed=1;strokeColor=#3333FF;strokeWidth=4;fontFamily=Lucida Console;fontColor=#3333FF;fillColor=default;" vertex="1" parent="1">
           <mxGeometry x="270.73" y="252" width="39.27" height="36" as="geometry" />
+        </mxCell>
+        <mxCell id="j_06YCDG4wWiyzo9oaCB-28" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;fontFamily=Lucida Console;fontSize=12;fontColor=#3333FF;exitX=1.005;exitY=0.608;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="j_06YCDG4wWiyzo9oaCB-1" target="j_06YCDG4wWiyzo9oaCB-10">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-140" y="247" as="sourcePoint" />
+            <mxPoint x="-80" y="240" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
