@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-12-13T18:30:50.538Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="uJ5KFfu5VQdUODEXsGrz" version="20.6.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-12-13T18:31:41.505Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="eh0Lw-NGuol4IGitZnU9" version="20.6.2" type="github">
   <diagram id="pkPBzq_F2FkeLmz5j-t2" name="Page-1">
     <mxGraphModel dx="1182" dy="1818" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -139,7 +139,7 @@
             <mxPoint x="787.2" y="400.8380000000001" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="A7Y3zjwEidm9EwU9jEmX-33" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/containers/Container_Registries.svg;fontFamily=Verdana;fontColor=#3399FF;" vertex="1" parent="1">
+        <mxCell id="A7Y3zjwEidm9EwU9jEmX-33" value="&lt;font color=&quot;#3333ff&quot;&gt;Container Registry&lt;/font&gt;" style="aspect=fixed;html=1;points=[];align=left;image;fontSize=12;image=img/lib/azure2/containers/Container_Registries.svg;fontFamily=Verdana;fontColor=#3399FF;labelPosition=right;verticalLabelPosition=middle;verticalAlign=middle;" vertex="1" parent="1">
           <mxGeometry x="789.5099999999999" y="425" width="45.7" height="41" as="geometry" />
         </mxCell>
         <mxCell id="A7Y3zjwEidm9EwU9jEmX-34" value="" style="endArrow=none;html=1;rounded=0;strokeColor=default;fontFamily=Verdana;fontSize=13;fontColor=#3333FF;entryX=-0.02;entryY=0.619;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
