@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-12-14T00:44:12.145Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="bE0ZQsYNpCZW94k-FCfa" version="20.6.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-12-14T14:01:53.255Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="QA845mwFSiGze9toKIek" version="20.7.2" type="github">
   <diagram id="pkPBzq_F2FkeLmz5j-t2" name="Page-1">
-    <mxGraphModel dx="2032" dy="1818" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2044" dy="1820" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -12,9 +12,6 @@
         </mxCell>
         <mxCell id="_LxGCqmfsSir6SBeD6TM-3" value="Bastion" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/compute/Virtual_Machine.svg;dashed=1;strokeColor=#3333FF;strokeWidth=3;fontFamily=Verdana;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="206.28" y="270" width="47.44" height="44" as="geometry" />
-        </mxCell>
-        <mxCell id="_LxGCqmfsSir6SBeD6TM-4" value="Terraform" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/compute/Virtual_Machine.svg;dashed=1;strokeColor=#3333FF;strokeWidth=3;fontFamily=Verdana;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="206.28" y="340" width="47.44" height="44" as="geometry" />
         </mxCell>
         <mxCell id="_LxGCqmfsSir6SBeD6TM-5" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;strokeColor=#3333FF;strokeWidth=2;fillColor=#FFD966;" parent="1" vertex="1">
           <mxGeometry x="350" y="50" width="160" height="160" as="geometry" />
@@ -267,6 +264,9 @@
               <mxPoint x="-306.02" y="169" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="iWUd_Ij9gSlMZmeU1Qh2-1" value="Azure DevOps Agent" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/compute/Container_Instances.svg;fontColor=#3333FF;fontFamily=Verdana;opacity=40;" vertex="1" parent="1">
+          <mxGeometry x="206.66" y="340" width="47.06" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
