@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-12-15T11:51:25.219Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="5SNm4bRcAqYHTv3nWEfe" version="20.7.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-12-15T22:41:20.500Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="zEJWs8Yvsja-SEWFDlTj" version="20.7.3" type="github">
   <diagram id="pkPBzq_F2FkeLmz5j-t2" name="Page-1">
-    <mxGraphModel dx="2044" dy="1820" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2442" dy="2060" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -10,7 +10,7 @@
         <mxCell id="_LxGCqmfsSir6SBeD6TM-2" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;strokeColor=#d6b656;strokeWidth=2;labelPosition=right;verticalLabelPosition=bottom;align=left;verticalAlign=top;fillColor=#fff2cc;" parent="1" vertex="1">
           <mxGeometry x="150" y="250" width="160" height="180" as="geometry" />
         </mxCell>
-        <mxCell id="_LxGCqmfsSir6SBeD6TM-3" value="Bastion" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/compute/Virtual_Machine.svg;dashed=1;strokeColor=#3333FF;strokeWidth=3;fontFamily=Verdana;fontStyle=1" parent="1" vertex="1">
+        <mxCell id="_LxGCqmfsSir6SBeD6TM-3" value="Bastion" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/compute/Virtual_Machine.svg;dashed=1;strokeColor=#3333FF;strokeWidth=3;fontFamily=Verdana;fontStyle=1;opacity=20;" parent="1" vertex="1">
           <mxGeometry x="206.28" y="270" width="47.44" height="44" as="geometry" />
         </mxCell>
         <mxCell id="_LxGCqmfsSir6SBeD6TM-5" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;strokeColor=#d6b656;strokeWidth=2;fillColor=#fff2cc;" parent="1" vertex="1">
@@ -335,7 +335,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="IeT4aAw6LJj3MiaoblmP-1" value="VPN" style="endArrow=classic;html=1;strokeColor=#4F009E;strokeWidth=1;fontFamily=Verdana;fontSize=11;fontColor=#000000;curved=1;" edge="1" parent="1" source="r7Z5neGbWyE1JMXpOCnD-10" target="r7Z5neGbWyE1JMXpOCnD-4">
+        <mxCell id="IeT4aAw6LJj3MiaoblmP-1" value="VPN" style="endArrow=classic;html=1;strokeColor=#4F009E;strokeWidth=1;fontFamily=Verdana;fontSize=11;fontColor=#000000;curved=1;" parent="1" source="r7Z5neGbWyE1JMXpOCnD-10" target="r7Z5neGbWyE1JMXpOCnD-4" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-250.00032000000013" y="373.9839999999999" as="sourcePoint" />
             <mxPoint x="36.26000000000019" y="365.3547629218283" as="targetPoint" />
@@ -344,7 +344,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="IeT4aAw6LJj3MiaoblmP-2" value="SSH/RDP&lt;br&gt;Over HTTPS" style="endArrow=classic;html=1;strokeColor=#FF9933;strokeWidth=1;fontFamily=Verdana;fontSize=11;fontColor=#000000;curved=1;exitX=0.75;exitY=0.1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="r7Z5neGbWyE1JMXpOCnD-10" target="r7Z5neGbWyE1JMXpOCnD-4">
+        <mxCell id="IeT4aAw6LJj3MiaoblmP-2" value="SSH/RDP&lt;br&gt;Over HTTPS" style="endArrow=classic;html=1;strokeColor=#FF9933;strokeWidth=1;fontFamily=Verdana;fontSize=11;fontColor=#000000;curved=1;exitX=0.75;exitY=0.1;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="r7Z5neGbWyE1JMXpOCnD-10" target="r7Z5neGbWyE1JMXpOCnD-4" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-300" y="376.27534832390666" as="sourcePoint" />
             <mxPoint x="-143.16000000000008" y="157" as="targetPoint" />
@@ -353,7 +353,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="IeT4aAw6LJj3MiaoblmP-3" value="https://dticpreview.okta.com" style="endArrow=classic;html=1;strokeColor=#FF0000;strokeWidth=2;fontFamily=Verdana;fontSize=11;fontColor=#000000;curved=1;entryX=0.744;entryY=0.356;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;" edge="1" parent="1" source="_LxGCqmfsSir6SBeD6TM-7" target="r7Z5neGbWyE1JMXpOCnD-9">
+        <mxCell id="IeT4aAw6LJj3MiaoblmP-3" value="https://dticpreview.okta.com" style="endArrow=classic;html=1;strokeColor=#FF0000;strokeWidth=2;fontFamily=Verdana;fontSize=11;fontColor=#000000;curved=1;entryX=0.744;entryY=0.356;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;" parent="1" source="_LxGCqmfsSir6SBeD6TM-7" target="r7Z5neGbWyE1JMXpOCnD-9" edge="1">
           <mxGeometry x="0.0978" y="61" width="50" height="50" relative="1" as="geometry">
             <mxPoint x="119.98" y="-39.15000000000009" as="sourcePoint" />
             <mxPoint x="-90.00032000000012" y="-13.003999999999905" as="targetPoint" />
