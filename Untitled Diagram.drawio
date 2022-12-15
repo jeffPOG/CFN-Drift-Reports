@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-12-15T23:42:57.532Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="4lI0kZBIrqOV9ebc215D" version="20.7.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-12-15T23:43:09.217Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="X-SIVYNr0ux1M3EnbAM4" version="20.7.3" type="github">
   <diagram id="pkPBzq_F2FkeLmz5j-t2" name="Page-1">
     <mxGraphModel dx="2044" dy="1820" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -229,7 +229,7 @@
             <mxPoint x="-406.29999999999995" y="230" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="r7Z5neGbWyE1JMXpOCnD-15" value="Azure&lt;br&gt;DevOps" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/devops/Azure_DevOps.svg;fontFamily=Verdana;fontColor=#3333FF;labelPosition=center;verticalLabelPosition=top;verticalAlign=bottom;opacity=40;" parent="1" vertex="1">
+        <mxCell id="r7Z5neGbWyE1JMXpOCnD-15" value="Azure&lt;br&gt;DevOps" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/devops/Azure_DevOps.svg;fontFamily=Verdana;fontColor=#3333FF;labelPosition=center;verticalLabelPosition=top;verticalAlign=bottom;opacity=20;" parent="1" vertex="1">
           <mxGeometry x="30" y="482" width="48" height="48" as="geometry" />
         </mxCell>
         <mxCell id="r7Z5neGbWyE1JMXpOCnD-16" value="HTTPS" style="endArrow=classic;html=1;rounded=0;strokeColor=#FF0000;strokeWidth=2;fontFamily=Verdana;fontSize=11;fontColor=#000000;opacity=40;" parent="1" source="r7Z5neGbWyE1JMXpOCnD-4" target="r7Z5neGbWyE1JMXpOCnD-15" edge="1">
