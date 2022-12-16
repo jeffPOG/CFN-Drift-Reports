@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-12-16T13:40:46.350Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="F5ixnZrWndLeTwWAak_5" version="20.7.4" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-12-16T13:59:52.175Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="gnnsDnJ-ef_Z1QC5KzQ8" version="20.7.4" type="github" pages="2">
   <diagram id="o87MJk7Z9AUNXDubFWuQ" name="Page-1">
-    <mxGraphModel dx="2044" dy="1820" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="3021" dy="2409" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -636,7 +636,7 @@
         <mxCell id="lbCJ3n5CFNypWxdpf_tQ-27" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/containers/Container_Registries.svg;opacity=20;" vertex="1" parent="1">
           <mxGeometry x="1400" y="563" width="68" height="61" as="geometry" />
         </mxCell>
-        <mxCell id="lbCJ3n5CFNypWxdpf_tQ-28" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/app_services/Search_Services.svg;fillColor=default;" vertex="1" parent="1">
+        <mxCell id="lbCJ3n5CFNypWxdpf_tQ-28" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/app_services/Search_Services.svg;fillColor=default;opacity=20;" vertex="1" parent="1">
           <mxGeometry x="1406" y="200.5" width="72" height="52" as="geometry" />
         </mxCell>
       </root>
