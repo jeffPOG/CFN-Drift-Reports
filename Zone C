@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-12-16T00:15:08.267Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="EUcC3-kSda1ZMbzhIXQv" version="20.7.3" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-12-16T00:22:17.860Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="R0lWwfe6ABFYC4fpkAUE" version="20.7.3" type="github" pages="2">
   <diagram id="o87MJk7Z9AUNXDubFWuQ" name="Page-1">
     <mxGraphModel dx="2343" dy="2000" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -890,6 +890,12 @@
         </mxCell>
         <mxCell id="slZG3nnti0I7qVWdJftK-71" value="&lt;h1&gt;VNET: AZ-GV-DOD-AF-CCE-CDL-L-IL2-DTIC-DDVT-RGP-01-VNET&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;dashed=1;strokeWidth=4;fontSize=11;" vertex="1" parent="1">
           <mxGeometry x="-670" y="-11.25" width="693" height="32.5" as="geometry" />
+        </mxCell>
+        <mxCell id="slZG3nnti0I7qVWdJftK-72" value="Developed" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#82b366;strokeWidth=1;fontSize=15;fillColor=#d5e8d4;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="-540" y="540" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="slZG3nnti0I7qVWdJftK-73" value="In Progress&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#d6b656;strokeWidth=1;fontSize=15;fillColor=#fff2cc;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="-540" y="599" width="50" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
