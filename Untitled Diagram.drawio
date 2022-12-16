@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-12-16T13:16:37.795Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="JE2RKv37e4s64Sy6rcUw" version="20.7.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-12-16T13:59:04.028Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="vO0QegJagBqbs_C95D3k" version="20.7.4" type="github">
   <diagram id="pkPBzq_F2FkeLmz5j-t2" name="Page-1">
     <mxGraphModel dx="2442" dy="2060" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -406,6 +406,12 @@
         </mxCell>
         <mxCell id="GHZFM5Cv-nVf4tXyCorK-27" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/compute/Function_Apps.svg;" parent="1" vertex="1">
           <mxGeometry x="357.33" y="745" width="22.67" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="si3tdapHfDzwBq7XVNZf-1" value="Developed" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#82b366;strokeWidth=1;fontSize=15;fillColor=#d5e8d4;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="-270" y="600" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="si3tdapHfDzwBq7XVNZf-2" value="In Progress&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#d6b656;strokeWidth=1;fontSize=15;fillColor=#fff2cc;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="-270" y="659" width="50" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
