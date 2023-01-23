@@ -1,1 +1,28 @@
-<mxfile host="app.diagrams.net" modified="2023-01-23T20:50:07.077Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="zZKIr1n0vUjPobwp1apH" version="20.8.10" type="github"><diagram name="Page-1" id="LcDqU5_3rsTCRH76cfYo">7ZdNj5swEIZ/DccgPnfTYxKSrdRWXSmqKu2lcmBi3DWYGgfI/vraYBMIqXYrsT01hwTeGfwxz8yYWP4max44KtIvLAFqeU7SWH5keZ7rfgjkj1LOnXLvOZ2AOUm000XYkxfQonE7kQTKkaNgjApSjMWY5TnEYqQhzlk9djsyOp61QBgmwj5GdKp+J4lIO3UZOhf9IxCcmpldR1syZJy1UKYoYfVA8reWv+GMie4qazZAVfBMXLrndn+w9gvjkIu3PPDUrAuMa2d3fBFPnxg6hb++LfQoFaInveHVy4mDlCKovsoYe84eeEVi0JsQZxMZzk55Ampw1/LXdUoE7AsUK2stc0FqqcioNiNKcC6vY7lY4FKg6AD0kZVEEDYyVMAFkfH/fOUgWDGwrvR4ByYEy6RhGg2zNfkENANJR+cBWAaCn6WLthqmZ5OB+r6+cA+Nlg6Y9yLSuYb7oS845IUm8hd0vAmdCQVUFl3aH0mjYAyDXjCSi3ZN4doKo1sYSNbm//rIcqGLz/UuekQyLFdOyUF+I5UZakcJVEylxq7NlR9dpthlhefhsLzi4E853AVTDEabnYL/OoXyGUSs1uaoIP87JFkZI+hBPJICKMlhRhZeMIYRhLeK4lZNvBOM4A0wUlR0geoCOQj/dfsYN5XrltM3l7ZZrVH8jNumt2GU8XYu/9h+DJ2VIX8zDQzAVAh1eK1UILxdnOSOTeTxdSSynXI7ljPKEkMCyR+lq0KjLMeL7gBZ1HBYGD10VThRjk8U8YXrLe0ixzNgvx9T92+0wmA5pW602amHr1NPUJm2p5GKPTsJVQib/qXAmfs46nPjdkqZHMwarN6LbAmtZWb/RBWSdqkmRM4xSKVoF22j7fzw+hJ+pWQDz36vDnr3v2gnRasSoYw5KcSMdet6V4V7926FK28v766tbfAPwN/+Bg==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2023-01-23T21:00:07.554Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="p0DLDz-1EnBLea7AslCz" version="20.8.10" type="github">
+  <diagram name="Page-1" id="LcDqU5_3rsTCRH76cfYo">
+    <mxGraphModel dx="1194" dy="720" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="ZxBpggw0FfztZKoau5qU-1" value="Azure DevOps Service" style="rounded=1;whiteSpace=wrap;html=1;align=center;labelPosition=center;verticalLabelPosition=top;verticalAlign=bottom;" parent="1" vertex="1">
+          <mxGeometry x="50" y="100" width="500" height="500" as="geometry" />
+        </mxCell>
+        <mxCell id="ZxBpggw0FfztZKoau5qU-2" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/devops/Azure_DevOps.svg;" parent="1" vertex="1">
+          <mxGeometry x="80" y="130" width="64" height="64" as="geometry" />
+        </mxCell>
+        <mxCell id="ZxBpggw0FfztZKoau5qU-3" value="" style="sketch=0;aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/Azure_Pipelines.svg;" parent="1" vertex="1">
+          <mxGeometry x="240" y="450" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="ZxBpggw0FfztZKoau5qU-4" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/long-shadow-web-icons/512/angular-128.png" parent="1" vertex="1">
+          <mxGeometry x="70" y="300" width="48" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="ZxBpggw0FfztZKoau5qU-5" value="" style="dashed=0;outlineConnect=0;html=1;align=center;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;shape=mxgraph.webicons.java;gradientColor=#DFDEDE" parent="1" vertex="1">
+          <mxGeometry x="70" y="240" width="50" height="42.4" as="geometry" />
+        </mxCell>
+        <mxCell id="ZxBpggw0FfztZKoau5qU-6" value="JS" style="shape=image;html=1;verticalAlign=bottom;verticalLabelPosition=top;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/long-shadow-web-icons/512/javascript-128.png;labelPosition=center;align=center;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="120" y="360" width="48" height="48" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
