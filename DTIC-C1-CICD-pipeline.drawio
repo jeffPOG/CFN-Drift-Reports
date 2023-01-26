@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-01-26T02:15:23.903Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="8uQj3twES89z2NvW_3ko" version="20.8.11" type="github">
+<mxfile host="app.diagrams.net" modified="2023-01-26T02:25:39.939Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="m6n7nGTcdaHrdwpAviQt" version="20.8.11" type="github">
   <diagram name="Page-1" id="LcDqU5_3rsTCRH76cfYo">
     <mxGraphModel dx="1194" dy="720" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -174,6 +174,18 @@
             <mxPoint x="890" y="500.7767347644574" as="sourcePoint" />
             <mxPoint x="1027.4700000000003" y="488.5514438872558" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="Dsgd4bs9Q0cREFbHhDql-28" value="CloudOne: Zone B, A, Prod" style="rounded=1;whiteSpace=wrap;html=1;align=left;fontStyle=1;labelPosition=center;verticalLabelPosition=top;verticalAlign=bottom;" vertex="1" parent="1">
+          <mxGeometry x="40" y="640" width="970" height="330" as="geometry" />
+        </mxCell>
+        <mxCell id="Dsgd4bs9Q0cREFbHhDql-29" value="Builds" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/general/Builds.svg;fontFamily=Verdana;fontColor=#3399FF;" vertex="1" parent="1">
+          <mxGeometry x="196" y="670" width="44" height="44" as="geometry" />
+        </mxCell>
+        <mxCell id="Dsgd4bs9Q0cREFbHhDql-30" value="Repo" style="sketch=0;html=1;aspect=fixed;strokeColor=none;shadow=0;align=center;verticalAlign=top;fillColor=#3B8DF1;shape=mxgraph.gcp2.repository_2;fontFamily=Verdana;fontSize=13;fontColor=#3399FF;labelPosition=center;verticalLabelPosition=bottom;" vertex="1" parent="1">
+          <mxGeometry x="280" y="670" width="47" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Dsgd4bs9Q0cREFbHhDql-31" value="" style="sketch=0;aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/Docker.svg;" vertex="1" parent="1">
+          <mxGeometry x="360" y="674.5" width="50" height="41" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
