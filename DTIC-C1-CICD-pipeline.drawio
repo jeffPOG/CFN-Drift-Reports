@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-01-26T01:38:36.982Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="tPyc3ha1Ia3b01X304Kp" version="20.8.11" type="github">
+<mxfile host="app.diagrams.net" modified="2023-01-26T01:43:57.078Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="8LT7VWOuNENdHLknZ3cq" version="20.8.11" type="github">
   <diagram name="Page-1" id="LcDqU5_3rsTCRH76cfYo">
     <mxGraphModel dx="1194" dy="663" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -97,13 +97,25 @@
         <mxCell id="Dsgd4bs9Q0cREFbHhDql-8" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/containers/Kubernetes_Services.svg;fontFamily=Verdana;fontColor=#3399FF;" vertex="1" parent="1">
           <mxGeometry x="910" y="396" width="61.2" height="54" as="geometry" />
         </mxCell>
-        <mxCell id="Dsgd4bs9Q0cREFbHhDql-9" value="MS Hosted&amp;nbsp;&lt;br&gt;Agent" style="sketch=0;aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/Virtual_Machine.svg;strokeColor=#A680B8;strokeWidth=2;fontFamily=Verdana;fontColor=#3399FF;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="Dsgd4bs9Q0cREFbHhDql-9" value="Self-Hosted&lt;br&gt;Agent" style="sketch=0;aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/Virtual_Machine.svg;strokeColor=#A680B8;strokeWidth=2;fontFamily=Verdana;fontColor=#3399FF;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="830" y="470" width="50" height="46" as="geometry" />
         </mxCell>
         <mxCell id="Dsgd4bs9Q0cREFbHhDql-10" value="docker pull&lt;br&gt;HTTPS" style="endArrow=classic;html=1;rounded=0;fontFamily=Verdana;fontSize=12;fontColor=#000000;strokeColor=#FF0000;strokeWidth=2;exitX=1;exitY=0.717;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="Ks3pj2gpdTDfKUcoMdgc-12" target="Dsgd4bs9Q0cREFbHhDql-6">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="420" y="375.9265573770491" as="sourcePoint" />
             <mxPoint x="700" y="274.0799999999999" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Dsgd4bs9Q0cREFbHhDql-11" value="docker push&lt;br&gt;HTTPS" style="endArrow=classic;html=1;rounded=0;fontFamily=Verdana;fontSize=12;fontColor=#000000;strokeColor=#FF0000;strokeWidth=2;" edge="1" parent="1" source="Ks3pj2gpdTDfKUcoMdgc-12" target="Dsgd4bs9Q0cREFbHhDql-7">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="599.4131372549018" y="360" as="sourcePoint" />
+            <mxPoint x="500.00137254901966" y="516" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Dsgd4bs9Q0cREFbHhDql-12" value="pull&lt;br&gt;HTTPS" style="endArrow=classic;html=1;rounded=0;fontFamily=Verdana;fontSize=12;fontColor=#000000;strokeColor=#FF0000;strokeWidth=2;" edge="1" parent="1" source="Dsgd4bs9Q0cREFbHhDql-8" target="Dsgd4bs9Q0cREFbHhDql-7">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="679.4131372549018" y="408" as="sourcePoint" />
+            <mxPoint x="580.0013725490196" y="564" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
