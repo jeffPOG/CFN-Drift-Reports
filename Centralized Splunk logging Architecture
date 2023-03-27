@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-27T19:54:22.784Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="rUGXLEU8NYS4qw26xTrz" version="21.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-27T19:58:38.703Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="F8mNW0gMP0mSDSRIt8MN" version="21.1.1" type="github">
   <diagram name="Page-1" id="vdA5US7yJ1cwCkmNOPcU">
     <mxGraphModel dx="1194" dy="1866" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -72,6 +72,15 @@
         </mxCell>
         <mxCell id="4abDr8QhU9VLw4e7xwYa-23" value="Search Head Cyber" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.instance;fillColor=#F58534;gradientColor=none;" vertex="1" parent="1">
           <mxGeometry x="470" y="112" width="50" height="43" as="geometry" />
+        </mxCell>
+        <mxCell id="4abDr8QhU9VLw4e7xwYa-24" value="Indexer 1" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.instance;fillColor=#F58534;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="60" y="300" width="50" height="43" as="geometry" />
+        </mxCell>
+        <mxCell id="4abDr8QhU9VLw4e7xwYa-26" value="Indexer 2" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.instance;fillColor=#F58534;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="250" y="300" width="50" height="43" as="geometry" />
+        </mxCell>
+        <mxCell id="4abDr8QhU9VLw4e7xwYa-27" value="Indexer 3" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.instance;fillColor=#F58534;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="156.25" y="370" width="50" height="43" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
