@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-28T17:25:48.746Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="huj7vQBZuIWnycd4fkvW" version="21.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-28T17:28:34.217Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="RKHf5M0h-EB6Nfz6OokJ" version="21.1.1" type="github">
   <diagram name="Page-1" id="vdA5US7yJ1cwCkmNOPcU">
     <mxGraphModel dx="2255" dy="901" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -233,6 +233,24 @@
         </mxCell>
         <mxCell id="4abDr8QhU9VLw4e7xwYa-129" value="&lt;b&gt;Splunk Forwarder Traffic&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="100" y="667.5" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="4abDr8QhU9VLw4e7xwYa-130" value="" style="endArrow=classic;html=1;rounded=0;fillColor=#e1d5e7;strokeColor=#000000;strokeWidth=2;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;fontStyle=1" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="35" y="751" as="sourcePoint" />
+            <mxPoint x="100" y="750" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4abDr8QhU9VLw4e7xwYa-131" value="&lt;b&gt;Splunk Depoly Flow&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="100" y="740" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="4abDr8QhU9VLw4e7xwYa-132" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="40" y="820" as="sourcePoint" />
+            <mxPoint x="100" y="820" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4abDr8QhU9VLw4e7xwYa-133" value="&lt;b&gt;Splunk Cluster Flow&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="111.25" y="797.5" width="120" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
