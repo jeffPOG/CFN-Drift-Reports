@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-28T17:34:57.743Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="qK-16SVau0sv3eqt7EmB" version="21.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-28T17:36:04.904Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="Ty4UnYls9UTF0cTzh7uv" version="21.1.1" type="github">
   <diagram name="Page-1" id="vdA5US7yJ1cwCkmNOPcU">
     <mxGraphModel dx="2177" dy="851" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -171,14 +171,11 @@
         <mxCell id="4abDr8QhU9VLw4e7xwYa-138" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;strokeWidth=2;strokeColor=#3399FF;" edge="1" parent="1" source="4abDr8QhU9VLw4e7xwYa-106" target="4abDr8QhU9VLw4e7xwYa-110">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="4abDr8QhU9VLw4e7xwYa-106" value="Torch Agent" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.instance;fillColor=#F58534;gradientColor=none;fontColor=#007FFF;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="4abDr8QhU9VLw4e7xwYa-106" value="Torch container&lt;br&gt;with Splunk Agent" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.instance;fillColor=#F58534;gradientColor=none;fontColor=#007FFF;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="-480" y="252.5" width="60" height="63" as="geometry" />
         </mxCell>
         <mxCell id="4abDr8QhU9VLw4e7xwYa-108" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="-440" y="271" width="20" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="4abDr8QhU9VLw4e7xwYa-109" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="-440" y="336.5" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="4abDr8QhU9VLw4e7xwYa-110" value="&lt;b&gt;Peering&amp;nbsp;&lt;br&gt;GW&lt;br&gt;&lt;/b&gt;" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.vpc_peering;fillColor=#F58534;gradientColor=none;" vertex="1" parent="1">
           <mxGeometry x="-330" y="254" width="60" height="60" as="geometry" />
