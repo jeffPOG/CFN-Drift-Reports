@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-29T13:41:32.240Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="3UPpUXdwODTCjH4iyHrO" version="21.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-29T13:42:03.944Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="3pfn-HL4bzdmiQx9DX5k" version="21.1.1" type="github">
   <diagram name="Page-1" id="4so5bGXLBTvLev_QnK2p">
     <mxGraphModel dx="1594" dy="766" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -27,9 +27,6 @@
         </mxCell>
         <mxCell id="ou1pxA_6yPd1pBwNwEfb-22" value="VPC" style="sketch=0;outlineConnect=0;gradientColor=none;html=1;whiteSpace=wrap;fontSize=12;fontStyle=1;shape=mxgraph.aws4.group;grIcon=mxgraph.aws4.group_vpc;strokeColor=#FF8000;fillColor=none;verticalAlign=top;align=left;spacingLeft=30;fontColor=#879196;dashed=0;" vertex="1" parent="1">
           <mxGeometry x="540" y="171" width="490" height="300" as="geometry" />
-        </mxCell>
-        <mxCell id="ou1pxA_6yPd1pBwNwEfb-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=2;strokeColor=#3399FF;" edge="1" parent="1" source="ou1pxA_6yPd1pBwNwEfb-23" target="ou1pxA_6yPd1pBwNwEfb-37">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ou1pxA_6yPd1pBwNwEfb-23" value="Peering GW" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.vpc_peering;fillColor=#F58534;gradientColor=none;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="503" y="285.17" width="69" height="72" as="geometry" />
@@ -72,6 +69,14 @@
         </mxCell>
         <mxCell id="ou1pxA_6yPd1pBwNwEfb-37" value="&lt;b&gt;HEC ELB&amp;nbsp;&lt;/b&gt;" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.classic_load_balancer;fillColor=#F58534;gradientColor=none;" vertex="1" parent="1">
           <mxGeometry x="765" y="190" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ou1pxA_6yPd1pBwNwEfb-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=2;strokeColor=#3399FF;" edge="1" parent="1" source="ou1pxA_6yPd1pBwNwEfb-23" target="ou1pxA_6yPd1pBwNwEfb-37">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="605" y="321" />
+              <mxPoint x="605" y="220" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
